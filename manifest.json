@@ -1,0 +1,22 @@
+{
+  "name": "SBYNTH Soundboard",
+  "short_name": "SBYNTH",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait",
+  "start_url": "/",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "display": "standalone",
+  "description": "Botonera de los mejores audios de los miembros de SBYNTH",
+  "icons": [
+    {
+      "src": "/path-to-pwa-icon-size-192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/path-to-pwa-icon-size-512x512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
